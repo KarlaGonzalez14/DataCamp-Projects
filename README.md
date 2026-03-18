@@ -49,7 +49,7 @@ DataCamp Projects
 │   └── Future_Python_Projects/
 │
 ├── SQL/
-│   ├── Query_Project_01.sql
+│   ├── 01_Mentalhealth
 │   └── Future_SQL_Projects/
 │
 └── README.md
